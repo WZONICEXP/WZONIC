@@ -8,9 +8,6 @@
 [![Website](https://img.shields.io/badge/Website-SENDIX-blue?logo=google-chrome)](https://sendix.me/)
 [![Twitter](https://img.shields.io/badge/Twitter-SENDIX-blue?logo=twitter)](https://x.com/SENDIXMSG).
 
-```
-CA: HUibeGFWGAxyN2F51Pf8XHGqQBhX5aHYdx4xQhKjpump
-```
 
 SENDIX — The Last SMS on Chain
 
